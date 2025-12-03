@@ -12,4 +12,4 @@ echo "The sum of the two numbers is $sum"
 echo "The difference of the two numbers is $sub"
 echo "The division of the two numbers is $div"
 echo "The product of the two numbers is $mul"
-echo "ravivarma"
+
